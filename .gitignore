@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+#Compilation and Testing stuff
+rigacar
+rigacar.zip
